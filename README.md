@@ -18,8 +18,6 @@ Hey there! *I'm Prathamesh*, a Pre-final year Information Technology student in 
 - **Databases:** MySQL, MongoDB
 
 ## Achievements 🏆
-
-- 🎖 **Hackathon Champion:** College level SIH Winner.
 - 👨‍💻 **Open-Source Contributor:** Actively contributing to open-source projects.
 - 🏅 **Top Performer in LeetCode Weekly Contest:** with more than 100 days streak
 
