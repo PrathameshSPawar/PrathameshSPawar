@@ -14,7 +14,7 @@ Hey there! *I'm Prathamesh*, a Pre-final year Information Technology student in 
 
 ### Technical Skills:
 - **Programming Languages:** Java, C++, Python
-- **Frameworks/Libraries:** SpringBoot
+- **Framework:** SpringBoot
 - **Databases:** MySQL, MongoDB
 
 ## Achievements 🏆
