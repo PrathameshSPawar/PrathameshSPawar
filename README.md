@@ -7,7 +7,7 @@ Hey there! *I'm Prathamesh*, a Pre-final year Information Technology student in 
 
 - 🔭 **Currently working on:** A Personalized Engineering College Recommendation System Website.
 - 🌱 **Learning:** Java, DSA, C++ and exploring advanced SpringBoot.
-- 🤝 **Open to collaborating on:** Spring Boot projects, web applications, and open-source initiatives.
+- 🤝 **Open to collaborating on:** Spring Boot projects, web applications and open-source initiatives.
 - ⚡ **Fun fact:** I’m an open-source contributor and enjoy learning new frameworks and technologies to optimize my projects.
 
 ## Skills 🚀
