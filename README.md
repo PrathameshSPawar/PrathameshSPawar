@@ -5,7 +5,6 @@
 
 Hey there! *I'm Prathamesh*, a Pre-final year Information Technology student in **International Institute Of Information Technology, Pune** with a passion for **Java Developer**, **Machine Learning**, and **Open-Source Contributions**. I’m constantly looking for ways to enhance my skills by building scalable applications and contributing to impactful projects.
 
-- 🔭 **Currently working on:** A Personalized Engineering College Recommendation System Website.
 - 🌱 **Learning:** Java, DSA, C++ and exploring advanced SpringBoot.
 - 🤝 **Open to collaborating on:** Spring Boot projects, web applications and open-source initiatives.
 - ⚡ **Fun fact:** I’m an open-source contributor and enjoy learning new frameworks and technologies to optimize my projects.
